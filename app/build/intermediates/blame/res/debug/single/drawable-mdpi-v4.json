@@ -1,5 +1,9 @@
 [
     {
+        "merged": "W:\\Android\\GodHand_\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "W:\\Android\\GodHand_\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
         "merged": "D:\\AndroidProject\\AndroLua\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
         "source": "D:\\AndroidProject\\AndroLua\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
     }

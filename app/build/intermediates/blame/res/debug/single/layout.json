@@ -2,5 +2,9 @@
     {
         "merged": "D:\\AndroidProject\\AndroLua\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "D:\\AndroidProject\\AndroLua\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "W:\\Android\\GodHand_\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "W:\\Android\\GodHand_\\app\\src\\main\\res\\layout\\main.xml"
     }
 ]
